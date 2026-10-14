@@ -1,1 +1,7 @@
-Record=TopLevelDocument|FileName=Sheet1.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=IMU|SchDesignator=IMU|FileName=BMI270.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=BMI270.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=LoRa|SchDesignator=LoRa|FileName=SX1262IMLTRT.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=SX1262IMLTRT.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=STM32C011F4U6TR.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=STM32C011F4U6TR.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Micro SD|SchDesignator=Micro SD|FileName=MSD-1-A.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=MSD-1-A.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Power|SchDesignator=Power|FileName=Power.SchDoc|SheetNumber=7|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Pressure|SchDesignator=Pressure|FileName=BMP581.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=BMP581.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
